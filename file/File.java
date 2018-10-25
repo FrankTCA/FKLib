@@ -77,7 +77,7 @@ public class File {
     if (file.exists()) {
       return true;
     } else {
-      return true;
+      return false;
     }
   }
 }
